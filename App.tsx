@@ -15,7 +15,7 @@ import {
 import { GoogleGenAI } from "@google/genai";
 import Markdown from 'react-markdown';
 import { motion, AnimatePresence } from 'motion/react';
-import { cn } from './lib/utils';
+import { cn } from './utils';
 
 import { jsPDF } from 'jspdf';
 import html2canvas from 'html2canvas';
